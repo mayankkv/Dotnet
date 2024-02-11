@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dcD4l4Qcmfm5u+uCCBjQKJ3PYgU0B4xt3oonPkcTTlU=",
+  "Source": "HttpCalculator",
+  "BasePath": "_content/HttpCalculator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

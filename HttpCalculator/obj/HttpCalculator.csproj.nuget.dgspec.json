@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/30111693/Desktop/Practice_Asp.net/HttpCalculator/HttpCalculator.csproj": {}
+    "/Users/30111693/Desktop/Practice_Asp/HttpCalculator/HttpCalculator.csproj": {}
   },
   "projects": {
-    "/Users/30111693/Desktop/Practice_Asp.net/HttpCalculator/HttpCalculator.csproj": {
+    "/Users/30111693/Desktop/Practice_Asp/HttpCalculator/HttpCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/30111693/Desktop/Practice_Asp.net/HttpCalculator/HttpCalculator.csproj",
+        "projectUniqueName": "/Users/30111693/Desktop/Practice_Asp/HttpCalculator/HttpCalculator.csproj",
         "projectName": "HttpCalculator",
-        "projectPath": "/Users/30111693/Desktop/Practice_Asp.net/HttpCalculator/HttpCalculator.csproj",
+        "projectPath": "/Users/30111693/Desktop/Practice_Asp/HttpCalculator/HttpCalculator.csproj",
         "packagesPath": "/Users/30111693/.nuget/packages/",
-        "outputPath": "/Users/30111693/Desktop/Practice_Asp.net/HttpCalculator/obj/",
+        "outputPath": "/Users/30111693/Desktop/Practice_Asp/HttpCalculator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/30111693/.nuget/NuGet/NuGet.Config"

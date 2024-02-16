@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/30111693/Desktop/Practice_Asp/MiddlewareLogin/MiddlewareLogin.csproj": {}
+    "/Users/30111693/Desktop/Practice_Asp/RoutingCountries/RoutingCountries.csproj": {}
   },
   "projects": {
-    "/Users/30111693/Desktop/Practice_Asp/MiddlewareLogin/MiddlewareLogin.csproj": {
+    "/Users/30111693/Desktop/Practice_Asp/RoutingCountries/RoutingCountries.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/30111693/Desktop/Practice_Asp/MiddlewareLogin/MiddlewareLogin.csproj",
-        "projectName": "MiddlewareLogin",
-        "projectPath": "/Users/30111693/Desktop/Practice_Asp/MiddlewareLogin/MiddlewareLogin.csproj",
+        "projectUniqueName": "/Users/30111693/Desktop/Practice_Asp/RoutingCountries/RoutingCountries.csproj",
+        "projectName": "RoutingCountries",
+        "projectPath": "/Users/30111693/Desktop/Practice_Asp/RoutingCountries/RoutingCountries.csproj",
         "packagesPath": "/Users/30111693/.nuget/packages/",
-        "outputPath": "/Users/30111693/Desktop/Practice_Asp/MiddlewareLogin/obj/",
+        "outputPath": "/Users/30111693/Desktop/Practice_Asp/RoutingCountries/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/30111693/.nuget/NuGet/NuGet.Config"
@@ -38,12 +38,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

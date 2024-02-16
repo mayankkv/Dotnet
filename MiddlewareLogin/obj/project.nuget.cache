@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GdDZu0N5m1Mr/+m+mz5TwttjA2UqoMKrlbsWWlj1XnldcNEQJhzLKT9e9DvL1OY42zDXgBVXhD5qKmRDwbaXdA==",
+  "dgSpecHash": "lCRJ7ERNGCjNy+txV8pITEPOYFwcNQyJJNim5K3HBow/5xL3XhaUHJec3fsemhyZRyitK4yK+hp+uqxQIh7NiQ==",
   "success": true,
   "projectFilePath": "/Users/30111693/Desktop/Practice_Asp/MiddlewareLogin/MiddlewareLogin.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/30111693/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
